@@ -1,12 +1,12 @@
-Data Analysis Using SQL and Power BI
-Project Overview
-This project demonstrates the process of data analysis based on SQL (queries, data preparation, and data cleaning) and Power BI (visualization of results). The goal is to prepare a final dashboard that facilitates drawing key business insights from the processed data.
+# Data Analysis Using SQL and Power BI
 
-Tools and Technologies Used
-SQL: for extraction, transformation, and cleaning of data
+## Project Overview
 
-Power BI: for building interactive reports and dashboards
+This project demonstrates the process of data analysis based on **SQL** (queries, data preparation, and data cleaning) and **Power BI** (visualization of results). The goal is to prepare a final dashboard that facilitates drawing key business insights from the processed data.
 
-(Optional) MS Excel: for preliminary analysis or data preview
+## Tools and Technologies Used
 
-This setup enables a robust and efficient workflow—from data preparation through to visually driven decision support.
+- **SQL**: for extraction, transformation, and cleaning of data
+- **Power BI**: for building interactive reports and dashboards
+- *(Optional)* **MS Excel**: for preliminary analysis or data preview
+
